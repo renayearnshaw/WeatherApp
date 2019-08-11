@@ -8,6 +8,6 @@ The __WeatherApp__ project is written using ES6/7 _JavaScript_ and uses _Express
 1. The _Express_ module to create a web server that serves up web pages
 2. _Handlebars_ dynamic templates and partials
 3. The _fetch_ API to make a HTTP request from within the browser
-4. _Promises_ - the fetch function returns a _Promise_
+4. _Promises_ (the _fetch_ call returns a _Promise_)
 5. The _request_ module to make HTTP requests from within _Node_
 
